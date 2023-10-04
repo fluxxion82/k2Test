@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sharedOne-js-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/sharedOne/build/libs</output-path>
+    <root id="archive" name="sharedOne-js-1.0-SNAPSHOT.jar" />
+  </artifact>
+</component>
