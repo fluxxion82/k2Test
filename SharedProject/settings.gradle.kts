@@ -3,6 +3,10 @@ pluginManagement {
         mavenCentral()
         gradlePluginPortal()
     }
+
+    plugins {
+        kotlin("multiplatform") version "1.9.0"
+    }
 }
 
 dependencyResolutionManagement {
